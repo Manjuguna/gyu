@@ -1,2 +1,2 @@
-j=input()
-print(j)
+dot=input()
+print(dot)
